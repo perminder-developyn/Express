@@ -1,0 +1,22 @@
+{
+  "name": "helloname",
+  "version": "1.0.0",
+  "description": "HelloName",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perminder-developyn/Express.git"
+  },
+  "author": "Perminder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/perminder-developyn/Express/issues"
+  },
+  "homepage": "https://github.com/perminder-developyn/Express#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
